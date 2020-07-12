@@ -2,6 +2,8 @@
 
 Small headless client for discord using their hidden api.
 
+Now deprecated new headless client made with my wrapper for discord
+
 ## To use
 
 You'll need to retrieve your discord token to do this you can open discord in chrome and login then go to chrome developr tools > application > Local storage and in the local storage you'll find dict of information and in the dict will be a key called token the value is your token.
